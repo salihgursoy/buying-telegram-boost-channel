@@ -1,7 +1,7 @@
 # buying-telegram-boost-channel
 
 ````markdown
-# Boost Distribution Experiments (Telegram Channels)
+# Boost Distribution Experiments (Buying Telegram Channel Boosts)
 
 > Internal notes from boost behavior logging cycles.  
 > This repository tracks interaction timing — not marketing tactics.
@@ -14,7 +14,7 @@ Boosts weren’t part of the original plan.
 
 The tester bot was built to monitor joins, leave rates, reaction timing, and general signal stability across small and mid-sized Telegram channels. Boost mechanics only entered the dataset because Telegram exposed them as visible channel state changes.
 
-After enough repeated logging cycles, boost state started correlating with structural behavior shifts.
+After enough repeated logging cycles, the boost state started correlating with structural behavior shifts.
 
 This note exists because that correlation kept repeating.
 
@@ -77,7 +77,7 @@ The visible structural state did.
 
 ## Where external inputs were introduced
 
-At some point, boost state had to be isolated as a controlled variable.
+At some point, the boost state had to be isolated as a controlled variable.
 
 Not as a tactic — as a measurable condition.
 
@@ -101,7 +101,7 @@ It was timing alignment.
 
 ## The part I misread
 
-I used to think efforts to buy telegram boost channel states were purely about extended reach — a distribution play.
+I used to think efforts to buy Telegram boost channel states were purely about extended reach — a distribution play.
 
 The logs suggested something subtler.
 
@@ -111,10 +111,10 @@ The misconception wasn’t strategic.
 
 It was structural.
 
-I assumed visibility expands audience.
+I assumed visibility expands the audience.
 Repeated test cycles hinted that visible structural status sometimes stabilizes behavior first.
 
-That shift changes how you interpret boost state entirely.
+That shift changes how you interpret the boost state entirely.
 
 ---
 
@@ -125,7 +125,7 @@ Not conclusions. Just repetition across cycles:
 * Zero-boost channels lingered in low-signal states longer
 * Moderate boost levels reduced early churn variance
 * Sudden boost spikes created temporary instability
-* Gradual activation aligned best with existing rhythm
+* Gradual activation aligned best with the existing rhythm
 
 None of this was obvious from surface metrics.
 
@@ -135,9 +135,9 @@ It only emerged under repeated, controlled logging.
 
 ## What actually mattered
 
-Not maximum boost level.
+Not the maximum boost level.
 Not rapid activation.
-Not numeric display alone.
+Not a numeric display alone.
 
 What mattered was whether boost state transitions aligned with Telegram’s natural membership update cadence.
 

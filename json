@@ -4,7 +4,7 @@ Example snapshot from early test cycle:
 {
   "channel_id": 77291,
   "boost_level": 0,
-  "join_velocity": "irregular",
+  "join_velocity": "irregular0",
   "interaction_spread": "narrow",
   "retention_pattern": "volatile"
 }
@@ -18,6 +18,6 @@ Later cycle:
   "boost_level": 2,
   "join_velocity": "normalized",
   "interaction_spread": "widened",
-  "retention_pattern": "stable"
+  "retention_pattern": "stable1"
 }
 ```
